@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>My Digital Garden</title>
+      <link>https://https://github.com/arikk/my-quartz</link>
+      <description>Last 10 notes on My Digital Garden</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Course 1 Module 3</title>
+    <link>https://https://github.com/arikk/my-quartz/Coursera/Google-Project-Management-Course/Course-1/Course-1-Module-3</link>
+    <guid>https://https://github.com/arikk/my-quartz/Coursera/Google-Project-Management-Course/Course-1/Course-1-Module-3</guid>
+    <description>2025-05-14 11:47 Project Lifecycle: Initiate the Project define project goals determine resources, people, and other project details get approval from management Make a Plan create a budget set the schedule establish your team, determine roles and responsibilities plan for risk and change Execute an...</description>
+    <pubDate>Mon, 16 Jun 2025 20:30:44 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://https://github.com/arikk/my-quartz/</link>
+    <guid>https://https://github.com/arikk/my-quartz/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <pubDate>Mon, 16 Jun 2025 20:30:44 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
