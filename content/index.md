@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: "My Site"
+share: "true"
+status: 
+tags:
 ---
+2025-06-19 12:35
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Course 1 Module 1 - Intro to Project Management]]
+
+### Reference
