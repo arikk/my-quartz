@@ -1,6 +1,6 @@
 ---
 share: "true"
-status: review
+status: done
 tags:
   - project_management
   - coursera
@@ -42,8 +42,9 @@ Fixed Roles:
 - Stakeholder
 - Project manager - you!
 
-A project sponsor initiates the project and is responsible for presenting a business case for its existence. 
+A project sponsor initiates the project and is responsible for presenting a business case for its existence and releasing resources to the project manager.
 	They advocate for alignment with senior management, advise on key business decisions, and approve budget and resources.
+Basically the project director!
 
 It's important to understand *people* in *context*. 
 
@@ -107,10 +108,10 @@ RACI charts help define roles and responsibilities to ensure that work gets done
 	**I**nformed - those just needing to know the final decisions
 You must write down each task and assign it the appropriate role for each stakeholder, like so:
 
-|              | individual- | roles |
-| ------------ | ----------- | ----- |
-| tasks and    | R           | A     |
-| deliverables | C           | I     |
+|              | individual- | -roles |
+| ------------ | ----------- | ------ |
+| tasks and    | R           | A      |
+| deliverables | C           | I      |
 Tasks listed in the first column, and roles dispersed in the cells based on level of engagement.
 Better to use roles rather than names usually, as people may have multiple roles.
 
