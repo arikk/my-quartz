@@ -6,6 +6,6 @@ tags:
 ---
 2025-06-19 12:35
 
-[[Course 1 Module 1 - Intro to Project Management]]
+[[Module 1 - Intro to Project Management]]
 
 ### Reference

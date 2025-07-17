@@ -61,6 +61,8 @@ Common criteria in project charters:
 
 For more complex projects, you may include links to additional analysis, studies, or documents.
 
+The more detailed the project charter is, the easier it will be to convert it into an effective project plan.
+
 ## Evaluating tools to meet project needs
 
 Project management tools help you track deadlines, provides visibility to others, manage a budget, create helpful diagrams, manage contracts...
@@ -84,6 +86,4 @@ A lot of the tools listed sound like they serve very similar purposes, but I'm s
 
 
 ### Reference
-
-
-
+coursera.org
