@@ -15,7 +15,7 @@ Sometimes I don't feel like I'm good at this step, but the house painting exampl
 **Delegation** is utilizing people and their strengths for the jobs they are the best fit for.
 **Communication** and checking in regularly and staying in contact is key! Keep people informed.
 
-JuAnne's experience sounds like something I would enjoy.
+Based on the lecture, JuAnne's experience as a project manager sounds like something I would enjoy. Or at least feel good about doing.
 
 Customers can be internal and external.
 Internal: stakeholders like management, team members, resource managers, organizational department
