@@ -7,10 +7,8 @@ tags:
 ---
 2025-05-13 11:34
 
-This feels a little dumb.
-
 Project managers add value to their teams! Wow!
-**Prioritization**: they help their team break down large tasks into smaller steps
+**Prioritization**: they help their team break down large tasks into smaller steps.
 
 Sometimes I don't feel like I'm good at this step, but the house painting example sounds like one I would be very good at. I'd consider all the things the lecturer mentioned, because I'm obsessive about making sure anything permanent is done properly.
 

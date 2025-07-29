@@ -15,7 +15,7 @@ made up of:
 - your values - I value authenticity, honesty, and integrity. I strive to achieve sustainability and efficiency.
 
 Career Identity Statement:
-I am an artist and office worker with 3 years of experience doing administrative, organizational, and detail oriented work. My greatest strength is interpersonal communication, and I have a talent for helping people understand unfamiliar ideas. I'm passionate about helping others, and I value authenticity and integrity.
+I am an artist and office worker with 3 years experience doing administrative, organizational, and detail oriented work. My greatest strength is interpersonal communication, and I have a talent for helping people understand unfamiliar ideas. I'm passionate about helping others, and I value authenticity and integrity.
 
 What is a "project"?
 	It's a unique endeavor, with unique deliverables.
@@ -26,8 +26,6 @@ It's a project manager's job to make sure the project is both valuable and succe
 Manufacturing, construction, IT, publishing, finance, oil and gas are all industries that are experiencing growth in project manager positions. 
 
 Project Manager > Program Manager > Portfolio Manager
-
-My dad's view and opinion of me is very narrow and limited.
 
 *Missed milestone is not a failure, but data that needs to be addressed and reevaluated.
 
