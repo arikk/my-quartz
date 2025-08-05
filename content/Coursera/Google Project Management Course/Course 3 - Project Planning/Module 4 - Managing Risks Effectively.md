@@ -28,7 +28,7 @@ Bring your team together to brainstorm risks (reference the RACI chart for parti
 
 You can also structure it with a cause-and-effect diagram, or fishbone diagram/Ishikawa diagram. Consider a risk, or an effect, and work backwards to determine potential causes of that risk.
 
-Risk assessment generally focuses on determining the likelihood of the risk and its potential effects on the project. Prioritize risks with a **probability-impact matrix**, where you measure probability against impact on a grid.
+Risk assessment generally focuses on determining the likelihood of the risk and its potential effects on the project. Prioritize risks with a **probability-impact matrix**, where you measure probability against impact on a grid. This is a way of measuring [[|risk exposure]].
 
 Budget risk
 	Risk of the budget increasing, either through poor planning or increase in scope
