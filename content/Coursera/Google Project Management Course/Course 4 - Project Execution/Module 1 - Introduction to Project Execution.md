@@ -7,17 +7,18 @@ tags:
 ---
 2025-08-03 11:39
 
-Execution means carrying out all of the things previously covered! That is...
+Previously we covered planning for
 - How to actually respond to risks
 - How to measure and track a project's progress
 - How to use continuous improvement and quality management techniques
 - How to use and analyze data to inform your own decision-making
 - Team management and the fundamentals of influencing
-- Effectively lead your team to the finish line
+- Effectively leading your team to the finish line
 - Tools for effective team communication
 - Organizing and facilitating meetings
 - Closing a project
 
+Project execution entails carrying these out, monitoring their progress, and seeing them through to the end.
 ### Tracking and measuring progress
 
 Aside from obviously making sure the project is on track for completion and success, tracking is also important for transparency and risk management.
