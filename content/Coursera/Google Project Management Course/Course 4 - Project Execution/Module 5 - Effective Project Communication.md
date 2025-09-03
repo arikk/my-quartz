@@ -62,8 +62,7 @@ Google's study shows that productive meetings have three things in common:
 2. A clear and concise agenda that is followed through
 3. The correct attendees, meaning the participants can contribute to achieving the meeting's goal
 
-
-[[infographic1.png]]
+![[infographic1 1.png]]
 
 ### Reference
 coursera.org!
