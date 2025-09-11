@@ -62,6 +62,14 @@ Google's study shows that productive meetings have three things in common:
 2. A clear and concise agenda that is followed through
 3. The correct attendees, meaning the participants can contribute to achieving the meeting's goal
 
+There are generally four types of meetings:
+1. Project kick-offs
+2. Status updates
+3. Stakeholder reviews
+4. Project reviews
+
+
+
 ![[infographic1 1.png]]
 
 ### Reference
